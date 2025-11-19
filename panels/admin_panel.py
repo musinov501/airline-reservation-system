@@ -18,16 +18,16 @@ def admin_dashboard():
         choice = input("Enter your choice: ")
         
         if choice == '1':
-            return add_flights()
+            add_flights()
         elif choice == '2':
-            return view_flights()
+            view_flights()
         elif choice == '3':
-            return view_users()
+            view_users()
         elif choice == '4':
-            return view_bookings()
+            view_bookings()
         elif choice == '5':
             print("Logging out...")
-            break
+            return
         else:
             print("Invalid choice. Please try again.")
             
