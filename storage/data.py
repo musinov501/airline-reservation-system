@@ -1,0 +1,3 @@
+users = []
+flights = []
+bookings = []
