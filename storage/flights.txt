@@ -1,3 +1,5 @@
 ZIP123|Qatar airways|Doha|Singapore|11-12-2025|12:30|280|279|765.0|delayed
 ZIP222|UzAirways|Tashkent|New York|25-12-2025|12:35|350|348|1200.0|on-time
 
+ZIP555|Turkish Airways|Turkey|Sidney|30-12-2025|11:35|255|255|968.0|on-time
+A320|Air Arabia|Abu-Dhabi|Kopenghagen|23-11-2025|14:50|235|235|580.0|on-time

@@ -32,6 +32,7 @@ def add_flights():
     input("Press Enter to return to the dashboard...")
 
 
+
 def view_flights():
     print("===== VIEW FLIGHTS =====")
     try:
